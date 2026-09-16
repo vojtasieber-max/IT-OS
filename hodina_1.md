@@ -7,6 +7,7 @@
 - https://www.fedoraprojection.org
 - https://www.redhat.com
 - https://endeavouros.com
+
 ## todo
-- [ ] musim si dopsat ukoly
+- [X] musim si dopsat ukoly
 - [X] splnen ukol c1
