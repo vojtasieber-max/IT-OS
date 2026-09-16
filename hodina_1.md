@@ -10,4 +10,4 @@
 
 ## todo
 - [ ] musim si dopsat ukoly
-- [X]~~ splnen ukol c1
+- [X] splnen ukol c1~~
